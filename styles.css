@@ -17,3 +17,9 @@ h3 {
   color: rgb(50, 50, 50);
   font-weight: bolder;
 }
+img {
+  display: block;
+  width: 600px;
+  height: auto;
+  margin: 0 auto;
+}
